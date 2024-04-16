@@ -1,3 +1,4 @@
+// Тема Рядки
 // let result = 5+5+'5';
 // console.log(typeof result);
 
@@ -15,6 +16,13 @@
 // let userName = 'Дякуємо, Володимир!';
 // let payment = 'До сплати 500 гривень';
 // console.log(alert(userName + payment))
+
+
+
+
+
+
+
 
 // const monthes = document.querySelector('.monthes'); 
 // console.log (monthes); 
@@ -67,6 +75,6 @@
 //     console.log(i * 2);
 // }
 
-let arr = [2, 75, 97, 4, 5, 67, 57, 48, 9, 10]
-let max = Math.max(...arr);
-console.log(max);
+// let arr = [2, 75, 97, 4, 5, 67, 57, 48, 9, 10]
+// let max = Math.max(...arr);
+// console.log(max);
